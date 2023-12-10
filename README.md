@@ -11,7 +11,13 @@ This project aims to predict obesity levels based on certain features using mach
 - `final_project.py`: Python script containing the project code.
 - `ObesityDataSet.csv`: Dataset used for training and evaluation.
 
+## Dataset
+Dataset is available on Zendo: https://zenodo.org/records/10342939
+The Doi for this dataset is :https://zenodo.org/doi/10.5281/zenodo.10342938
+
+
 ## Instructions for Replication
 To replicate this project, follow steps provided inside the code.
+
 
 ### To see the results of the project just Clone the Repository and follow the provided steps inside the code.
