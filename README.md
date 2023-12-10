@@ -12,13 +12,15 @@ This project aims to predict obesity levels based on certain features using mach
 - `ObesityDataSet.csv`: Dataset used for training and evaluation.
 
 ## Dataset
+Omce you run the 'Final_Project.ipynb' the dataset will be automatically downloaded and saved.
+
 Dataset is available on Zendo: https://zenodo.org/records/10342939
 
 The Doi for this dataset is :https://zenodo.org/doi/10.5281/zenodo.10342938
 
 
-## Instructions for Replication
-To replicate this project, follow steps provided inside the code.
+## Instructions to Use
+To use this project, run 'Final_Project.ipynb' and follow steps provided inside the code.
 
 
 ### To see the results of the project just Clone the Repository and follow the provided steps inside the code.
