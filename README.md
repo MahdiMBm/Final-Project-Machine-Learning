@@ -8,7 +8,6 @@ This project aims to predict obesity levels based on certain features using mach
 - `Final_Project.ipynb`: Jupyter Notebook containing the project code and required explanations.
 - `Final_Project.html`: HTML version of the project results.
 - `Final_Project.pdf`: PDF version of the project results.
-- `final_project.py`: Python script containing the project code.
 - `ObesityDataSet.csv`: Dataset used for training and evaluation.
 
 ## Dataset
